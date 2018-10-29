@@ -1,0 +1,8 @@
+[package]
+name = "protocol_buffer_sandbox"
+version = "0.1.0"
+authors = ["Tomohide Takao <amakunai.dorayaki@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+protobuf = "2"

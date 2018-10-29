@@ -1,0 +1,14 @@
+[[package]]
+name = "protobuf"
+version = "2.1.1"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+
+[[package]]
+name = "protocol_buffer_sandbox"
+version = "0.1.0"
+dependencies = [
+ "protobuf 2.1.1 (registry+https://github.com/rust-lang/crates.io-index)",
+]
+
+[metadata]
+"checksum protobuf 2.1.1 (registry+https://github.com/rust-lang/crates.io-index)" = "56c363dfc36e450457f4fa05a91d8c3f0fed00fc21142b4ce2cb7b525675eaeb"
